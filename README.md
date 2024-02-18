@@ -13,8 +13,9 @@
 ## Professional Experience
 ### Senior Software Engineer - Rently (Aug 2019 - Current Date)
 - Worked across several team, across several projects under Agile Project Management.
-- Integrated Single Sign on the Manager Portal
+- Key Contributions including Integrating Single Sign on the Manager Portal
 - Guiding junior developers by providing proper training.
+- Got best team player award in Q2 2023
 ---
 
 ## Personal Projects
@@ -35,6 +36,12 @@ Completed around 17 challenges in icodeThis Platform
 Developed around 10 few mini projects in CodePen Platform
 #### CodeSandBox
 Developed few mini projects in CodeSandbox Platform
+#### Blogs
+Released below blogs
+  - [Discovering the Stale Closure Trap](https://engineering.rently.com/discovering-the-stale-closure-trap-a-weird-bug/)
+#### Github
+![image](https://github.com/Sujai123/Sujai123/assets/50779190/267e9b5d-7700-4b29-a706-9a1ca30506d4)
+![image](https://github.com/Sujai123/Sujai123/assets/50779190/8683cf1a-8f79-44e5-9a51-0f11fa9cc716)
 
 ---
 
