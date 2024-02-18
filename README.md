@@ -17,8 +17,6 @@
 - Guiding junior developers by providing proper training.
 ---
 
----
-
 ## Personal Projects
 ### [Personal Portfolio](https://tourmaline-zuccutto-5739fe.netlify.app/)
 - Responsive portfolio built using React Typescript
@@ -49,8 +47,9 @@ Developed few mini projects in CodeSandbox Platform
 ---
 
 ## Area of Interest
-- Frontend Web development
-- Problem Solving
+- I'm very much interested in UI development to make the websites look beautiful yet pleasant. I'm always ready to learn new things about the UI development
+- I also like to solve the problems and I feel I'm strong in problem skills.
+- I'm also very much interested writing code clean, readable, maintainable by following SOLID priciples and design pattern. Which I think it is essential and can be applied to almost all the languages out there
 
 
 ---
