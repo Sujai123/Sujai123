@@ -6,7 +6,7 @@
 - **LinkedIn:** https://in.linkedin.com/in/sujai-beniks-j-89693616b
 - **GitHub:** https://github.com/Sujai123
 - **Location:** Coimbatore, TamilNadu, India
-- **Portfolio:** https://tourmaline-zuccutto-5739fe.netlify.app/
+- **Portfolio:** https://sujai-beniks-portfolio.netlify.app/
 
 ---
 
