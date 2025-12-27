@@ -11,7 +11,9 @@
 ---
 
 ## Professional Experience
-### Senior Software Engineer - Rently (Aug 2019 - Current Date)
+### Software Engineer - ProcureDesk (Dec 2025 - Current Date)
+- Full Stack Developer working on React JS in frontend and Ruby on Rails and Postgres in Backend
+### Associate Tech Lead - Rently (Aug 2019 - Nov 2025)
 - Worked across several team, across several projects under Agile Project Management.
 - Key Contributions including Integrating Single Sign on the Manager Portal
 - Guiding junior developers by providing proper training.
