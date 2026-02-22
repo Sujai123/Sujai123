@@ -21,6 +21,10 @@
 ---
 
 ## Personal Projects
+### [Shopdotco](https://shopdotco.netlify.app/)
+- Ecommerce product
+- Built using React Typescript, Material UI
+
 ### [Personal Portfolio](https://tourmaline-zuccutto-5739fe.netlify.app/)
 - Responsive portfolio built using React Typescript
 - I’m also planning to enhance this portfolio for more engagement.
